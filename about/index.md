@@ -7,9 +7,11 @@ comments: false
 ---
 
 ## Profil
-Nama GaIB    : Mbah Mira
-Nama Lengkap : Catherine Almira
-NIM          : 13515111
+Nama GaIB       : Mbah Mira
+
+Nama Lengkap    : Catherine Almira
+
+NIM             : 13515111
 
 ## Kontak
 [almiratjann@gmail.com](mailto:almiratjann@gmail.com)
