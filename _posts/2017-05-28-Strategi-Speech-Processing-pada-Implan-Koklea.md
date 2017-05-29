@@ -10,22 +10,13 @@ comments: true
 Implan Koklea (Cochlear Implant) adalah alat yang menyediakan pendengaran parsial untuk orang-orang tunarungu yang tidak dapat menggunakan alat bantu dengar konvensional. Hal tersebut disebabkan oleh hilangnya sel rambut di telinga bagian dalam. Dalam kejadian seperti itu, stimulasi langsung serabut saraf memberikan sarana untuk mengembalikan pendengaran pasien. Implan koklea  beroperasi dengan menstimulasi secara elektrik saraf pendengaran secara langsung sehingga melewati mekanisme pendengaran normal.
 
 <figure>
-	<a href="assets/img/fig0.png"><img src="assets/img/fig0.png"></a>
+	<a href='assets/img/fig0.png'><img src='assets/img/fig0.png'></a>
 </figure>
 
 Berbagai perangkat implan koklea telah dikembangkan selama ini. Semua perangkat implan memiliki fitur dasar yang sama: mikrofon yang mengambil suara, prosesor sinyal yang mengubah suara menjadi sinyal listrik, sistem transmisi yang mentransmisikan sinyal listrik ke elektroda implan dan elektroda atau rangkaian elektroda (terdiri dari beberapa elektroda) yang dimasukkan ke dalam koklea oleh ahli bedah.
 
 <figure>
-	<a href="assets/img/fig1.png"><img src="assets/img/fig1.png"></a>
-</figure>
-
-<figure>
-	<a href="http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_b.jpg"><img src="http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_c.jpg"></a>
-	<figcaption><a href="http://www.flickr.com/photos/80901381@N04/7758832526/" title="Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr">Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr</a>.</figcaption>
-</figure>
-
-<figure>
-	<a href="http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_b.jpg"><img src="http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_c.jpg"></a>
+	<a href='assets/img/fig1.png'><img src='assets/img/fig1.png'></a>
 </figure>
 
 Dalam implan saluran tunggal hanya satu elektroda yang digunakan. Pada implan koklea multichannel, susunan elektroda dimasukkan ke dalam koklea sehingga serabut saraf pendengaran yang berbeda dapat distimulasi di tempat yang berbeda dalam koklea, sehingga memanfaatkan mekanisme tempat untuk frekuensi pengkodean. Elektroda yang berbeda distimulasi tergantung pada frekuensi sinyal. Elektroda di dekat dasar koklea distimulasi dengan sinyal frekuensi tinggi, sedangkan elektroda dekat apeks dirangsang dengan sinyal frekuensi rendah. Prosesor sinyal bertanggung jawab untuk memecah sinyal input menjadi pita frekuensi atau saluran yang berbeda dan mengirimkan sinyal yang disaring ke elektroda yang sesuai.
@@ -41,7 +32,7 @@ Pendekatan kompresi-analog (CA) pada awalnya digunakan pada perangkat Ineraid ya
 Pendekatan CA menggunakan stimulasi analog yang menghasilkan empat bentuk gelombang analog kontinu hingga empat elektroda secara bersamaan. Perhatian utama yang terkait dengan stimulasi simultan adalah interaksi antara saluran yang disebabkan oleh penjumlahan medan listrik dari elektroda individu. Interaksi ini dapat mendistorsi informasi spektrum bicara dan karena itu menurunkan pemahaman wicara. Peneliti di Research Triangle Institute (RTI) mengembangkan pendekatan Continuous Interleaved Sampling (CIS) [4] yang membahas masalah interaksi saluran dengan menggunakan sinyal non simultan. Kumpulan dari biphasic pulses dikirim ke elektroda dengan cara yang tidak saling tumpang tindih (non-simultan), yaitu dengan cara sedemikian rupa sehingga hanya satu elektroda yang dirangsang pada satu waktu. Amplitudo pulsa diperoleh dengan mengekstraksi amplop bentuk gelombang yang dilambangkan. Sinyal pertama kali ditekankan terlebih dahulu dan melewati bank bandpass filter.
 
 <figure>
-	<a href="assets/img/fig2.png"><img src="assets/img/fig2.png"></a>
+	<a href='assets/img/fig2.png'><img src='assets/img/fig2.png'></a>
 </figure>
 
 Amplop dari bentuk gelombang yang disaring kemudian diekstraksi dengan rektifikasi gelombang penuh dan penyaringan low-pass (biasanya dengan frekuensi cutoff 200 atau 400 Hz). Keluaran amplop akhirnya dikompres dan kemudian digunakan untuk memodulasi biphasic pulses. Fungsi kompresi non linier (misalnya logaritmik) digunakan untuk memastikan bahwa keluaran amplop sesuai dengan rentang dinamis pasien yang didengar secara elektrik. Deretan biphasic pulses seimbang, dengan amplitudo sebanding dengan amplop, dikirim ke enam elektroda dengan kecepatan konstan dalam mode nonoverlapping. Tingkat di mana pulsa dikirim ke elektroda telah ditemukan memiliki dampak besar pada pengenalan suara. Rangsangan denyut nadi yang tinggi biasanya menghasilkan kinerja yang lebih baik daripada stimulasi denyut nadi rendah. Perbandingan antara pendekatan CA dan CIS menunjukkan tingkat pengenalan ucapan yang lebih tinggi dengan pendekatan CIS.
@@ -66,9 +57,7 @@ Perbaikan lebih lanjut atas skema F0 / F1 / F2 adalah MPEAK (atau MULTIPEAK) yan
 
 Alih-alih melakukan ekstraksi fitur, SMSP menganalisis pidato oleh bank dengan 16 filter bandpass mulai dari 250-5400 Hz. Keluaran dari filter bandpass diperbaiki dan lowpass disaring (200 Hz) dan enam keluaran terbesar dipilih dari antara 16. Hanya enam elektroda yang sesuai dengan amplitudo maksimum yang dirangsang pada setiap siklus pada tingkat 250 pps.
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/SU3kYxJmWuQ" frameborder="0"> </iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=zeg4qTnYOpw" frameborder="0"> </iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zeg4qTnYOpw" frameborder="0"> </iframe>
 
 
 #### Referensi:
