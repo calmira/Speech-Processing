@@ -7,16 +7,18 @@ comments: false
 ---
 
 <p align="center">
-  <img src="https://github.com/calmira/Speech-Processing/blob/master/assets/img/avatar.jpg">
+  <img src="https://lh5.googleusercontent.com/eJm3Hmu0TLxJQm-GAKAL8FyqGgx6qvdKxkugv13Ip7oPMXfzhjmQfUIYwlOimcdxy3hAEmKvMko1kwM=w1366-h662">
 </p>
 
 ## Profil
 
-Nama GaIB       : Mbah Mira
+Catherine Almira
 
-Nama Lengkap    : Catherine Almira
+13515111
 
-NIM             : 13515111
+Teknik Informatika 2015
+
+Institut Teknologi Bandung
 
 ## Kontak
 [almiratjann@gmail.com](mailto:almiratjann@gmail.com)
