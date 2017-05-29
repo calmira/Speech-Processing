@@ -7,7 +7,7 @@ comments: false
 ---
 
 <p align="center">
-  <img src="https://lh5.googleusercontent.com/eJm3Hmu0TLxJQm-GAKAL8FyqGgx6qvdKxkugv13Ip7oPMXfzhjmQfUIYwlOimcdxy3hAEmKvMko1kwM=w1366-h662">
+  <img src="https://github.com/calmira/Speech-Processing/blob/master/assets/img/avatar.jpg?raw=true">
 </p>
 
 ## Profil
