@@ -19,6 +19,15 @@ Berbagai perangkat implan koklea telah dikembangkan selama ini. Semua perangkat 
 	<a href="assets/img/fig1.png"><img src="assets/img/fig1.png"></a>
 </figure>
 
+<figure>
+	<a href="http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_b.jpg"><img src="http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_c.jpg"></a>
+	<figcaption><a href="http://www.flickr.com/photos/80901381@N04/7758832526/" title="Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr">Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr</a>.</figcaption>
+</figure>
+
+<figure>
+	<a href="http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_b.jpg"><img src="http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_c.jpg"></a>
+</figure>
+
 Dalam implan saluran tunggal hanya satu elektroda yang digunakan. Pada implan koklea multichannel, susunan elektroda dimasukkan ke dalam koklea sehingga serabut saraf pendengaran yang berbeda dapat distimulasi di tempat yang berbeda dalam koklea, sehingga memanfaatkan mekanisme tempat untuk frekuensi pengkodean. Elektroda yang berbeda distimulasi tergantung pada frekuensi sinyal. Elektroda di dekat dasar koklea distimulasi dengan sinyal frekuensi tinggi, sedangkan elektroda dekat apeks dirangsang dengan sinyal frekuensi rendah. Prosesor sinyal bertanggung jawab untuk memecah sinyal input menjadi pita frekuensi atau saluran yang berbeda dan mengirimkan sinyal yang disaring ke elektroda yang sesuai.
 
 ## Strategi bentuk gelombang
@@ -57,6 +66,7 @@ Perbaikan lebih lanjut atas skema F0 / F1 / F2 adalah MPEAK (atau MULTIPEAK) yan
 
 Alih-alih melakukan ekstraksi fitur, SMSP menganalisis pidato oleh bank dengan 16 filter bandpass mulai dari 250-5400 Hz. Keluaran dari filter bandpass diperbaiki dan lowpass disaring (200 Hz) dan enam keluaran terbesar dipilih dari antara 16. Hanya enam elektroda yang sesuai dengan amplitudo maksimum yang dirangsang pada setiap siklus pada tingkat 250 pps.
 
+<iframe width="560" height="315" src="//www.youtube.com/embed/SU3kYxJmWuQ" frameborder="0"> </iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=zeg4qTnYOpw" frameborder="0"> </iframe>
 
